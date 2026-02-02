@@ -4,6 +4,7 @@
 
 Estudante em Desenvolvimento Web, mas encontrei meu caminho no design gráfico e web design.
 Gosto de transformar ideias em soluções visuais e criar sites e marcas com identidade e propósito.
+Atualmente trabalhando como Desenvolvedor e Design gráfico sênior.
 
 Sempre buscando o melhor para crescer profissionalmente e espiritualmente a cada dia.
 
@@ -103,19 +104,28 @@ Sempre buscando o melhor para crescer profissionalmente e espiritualmente a cada
 />
 
  <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
             src="https://raw.githubusercontent.com/computergnome99/adobe-icons/refs/heads/main/ico-img/Adobe/24.png"
         />
 
  <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
             src="https://raw.githubusercontent.com/computergnome99/adobe-icons/refs/heads/main/ico-img/Photoshop/40.png"
         />
 
 <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;"  
             src="https://raw.githubusercontent.com/computergnome99/adobe-icons/refs/heads/main/ico-img/Illustrator/32.png"
         />
