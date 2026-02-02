@@ -101,3 +101,21 @@ Sempre buscando o melhor para crescer profissionalmente e espiritualmente a cada
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+ <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://raw.githubusercontent.com/computergnome99/adobe-icons/refs/heads/main/ico-img/Adobe/24.png"
+        />
+
+ <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://raw.githubusercontent.com/computergnome99/adobe-icons/refs/heads/main/ico-img/Photoshop/40.png"
+        />
+
+<img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://raw.githubusercontent.com/computergnome99/adobe-icons/refs/heads/main/ico-img/Illustrator/32.png"
+        />
