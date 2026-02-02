@@ -1,6 +1,6 @@
 # Renan Wilker
 
-**`Desenvolvedor FullStack`** **`renanwilker.com`** **`@renanwilker0`**
+**`Desenvolvedor FullStack`** **`Portfolio: renanwilker.com`** **`ig: @renanwilker0`** **`Linkedin: renanwilker0`**
 
 Estudante em Desenvolvimento Web, mas encontrei meu caminho no design gráfico e web design.
 Gosto de transformar ideias em soluções visuais e criar sites e marcas com identidade e propósito.
